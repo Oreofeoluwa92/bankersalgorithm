@@ -1,0 +1,7 @@
+5 3          //nos of processes
+7 5 3         // MAX matrix row 1
+3 2 2         // MAX matrix row 2
+9 0 2         // MAX matrix row 3
+2 2 2         //MAX matrix row 4
+4 3 3         //Max matrix row 5
+10 5 7   // AVAILABLE vector
